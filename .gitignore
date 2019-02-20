@@ -1,2 +1,4 @@
 *.tsv
 .DS_Store
+templates/*.html
+manual_mocks/*.html
