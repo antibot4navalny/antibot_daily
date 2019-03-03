@@ -45,7 +45,7 @@ VRSoloviev
 Vityzeva
 Vremya_Pokazhet
 ZaharPrilepin
-aakuzhichev
+aakuzichev
 abatsia
 alduckz
 amdn_blog
@@ -73,6 +73,7 @@ nstarikov
 ntvru
 oksanylia1
 publikatsii_ru
+rentvchannel
 rianru
 rishikesh_news
 sharijnet
