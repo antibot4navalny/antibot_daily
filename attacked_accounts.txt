@@ -38,3 +38,5 @@ novaya_gazeta
 mich261213
 USApoRusski
 radiosvoboda
+History_Ukraine
+prof_preobr
