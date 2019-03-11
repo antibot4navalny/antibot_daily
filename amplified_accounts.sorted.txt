@@ -1,5 +1,7 @@
 5tv
 _Marfacegaretca
+_Stanislav3
+_Stanislav4
 A_Gasparyan
 Alexey_Pushkov
 Anna_Shafran
@@ -39,6 +41,7 @@ RSagidguseynova
 RT_russian
 RuslanOstashko
 SERG__ROTENBERG
+SdibqJgth
 Shakhnazaroff
 Soviet_flag
 Telemaster68
@@ -51,6 +54,7 @@ Vremya_Pokazhet
 ZaharPrilepin
 aakuzichev
 abatsia
+aifonline
 alduckz
 amdn_blog
 anatoliisharii
@@ -66,6 +70,7 @@ imerkouri
 irkagolubeva91
 iremeslo
 izvestia_ru
+knyrikKS
 kpru
 lady_Katz
 leiurusbite
@@ -80,6 +85,7 @@ publikatsii_ru
 rentvchannel
 rianru
 rishikesh_news
+russiaspeaks
 sharijnet
 sohi1962
 soulstray
