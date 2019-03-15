@@ -96,6 +96,7 @@ subb_ZEr0
 subb_zzer0
 tass_agency
 telemaster_uhta
+torshin_ru
 tsargradtv
 ussrlife
 v_tretyakov
